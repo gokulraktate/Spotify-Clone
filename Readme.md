@@ -29,4 +29,6 @@ npm run dev
 * React JS
 * Tailwind CSS
 
+## 🔗 View Live  
+👉 [click here](https://spotify-clone-gokulraktate.vercel.app)
 
