@@ -1,6 +1,4 @@
 
-
-````markdown
 # Spotify Clone 🎧
 
 A simple static Spotify UI clone built with **React JS** and **Tailwind CSS**.
@@ -10,7 +8,7 @@ A simple static Spotify UI clone built with **React JS** and **Tailwind CSS**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/gokulraktate/Spotify-Clone.git
 cd spotify-clone
 ````
 
